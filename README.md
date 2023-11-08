@@ -18,6 +18,7 @@
 
 ### Ruta del archivo de configuracion:
 * Snake_Game/src/files/snakeConfig.txt
+* Para cambiar la dificultad del juego se debe modificar el archivo "difficulty.txt". La modificación consite en colocar un número de 1 a 3 dónde 1 es la dificultad más fácil y 3 la más difícil. 
 
 ### Ruta del archivo de historial de partidas:
 * Snake_Game/src/files/history.txt
